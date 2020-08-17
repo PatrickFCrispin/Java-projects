@@ -1,0 +1,3 @@
+﻿*Objetivo do Servidor de arquivos é mapear uma pasta como servidor, e receber arquivos nela. 
+*Funciona em tempo de execução, então sempre que um arquivo é enviado ou excluído, a pasta é atualizada.
+Para rodar: executar a classe principal AppServidor. 
