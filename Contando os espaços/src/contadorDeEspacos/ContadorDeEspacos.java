@@ -26,8 +26,8 @@ public class ContadorDeEspacos {
 	
 	public static void contadorDeEspacosComVetor(String frase) {
 		
-		ArrayList<String> f = new ArrayList<String>();
 		int contEspacos = 0;
+		ArrayList<String> f = new ArrayList<String>();
 		
 		for (int i = 0; i < frase.length(); i++) {
 			f.add(String.valueOf(frase.charAt(i)));

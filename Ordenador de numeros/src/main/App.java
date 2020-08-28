@@ -4,7 +4,7 @@ import ordenador.Ordenador;
 
 public class App {
 
-	static Integer [] numeros = {2,7,1, 3, 5,10};	
+	static Integer [] numeros = {2, 7, 1, 3, 5, 1, 11, 0};	
 
 	public static void main(String[] args) {
 		System.out.println("Sequencia não ordenada:");
