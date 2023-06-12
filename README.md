@@ -1,2 +1,2 @@
 # Java projects
-Este repositório contém projetos e desafios desenvolvidos em Java. 
+Este repositório contém desafios desenvolvidos em Java. 
